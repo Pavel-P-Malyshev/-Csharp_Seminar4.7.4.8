@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task001_NaturalRecurse\bin\Debug\net6.0\Task001_NaturalRecurse.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task001_NaturalRecurse\bin\Debug\net6.0\Task001_NaturalRecurse.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task001_NaturalRecurse\bin\Debug\net6.0\Task001_NaturalRecurse.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task001_NaturalRecurse\bin\Debug\net6.0\Task001_NaturalRecurse.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task001_NaturalRecurse\bin\Debug\net6.0\Task001_NaturalRecurse.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task001_NaturalRecurse\obj\Debug\net6.0\Task001_NaturalRecurse.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task001_NaturalRecurse\obj\Debug\net6.0\Task001_NaturalRecurse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task001_NaturalRecurse\obj\Debug\net6.0\Task001_NaturalRecurse.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task001_NaturalRecurse\obj\Debug\net6.0\Task001_NaturalRecurse.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task001_NaturalRecurse\obj\Debug\net6.0\Task001_NaturalRecurse.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task001_NaturalRecurse\obj\Debug\net6.0\Task001_NaturalRecurse.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task001_NaturalRecurse\obj\Debug\net6.0\refint\Task001_NaturalRecurse.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task001_NaturalRecurse\obj\Debug\net6.0\Task001_NaturalRecurse.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task001_NaturalRecurse\obj\Debug\net6.0\Task001_NaturalRecurse.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task001_NaturalRecurse\obj\Debug\net6.0\ref\Task001_NaturalRecurse.dll

@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task005_IsPowerofTwo\bin\Debug\net6.0\Task005_IsPowerofTwo.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task005_IsPowerofTwo\bin\Debug\net6.0\Task005_IsPowerofTwo.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task005_IsPowerofTwo\bin\Debug\net6.0\Task005_IsPowerofTwo.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task005_IsPowerofTwo\bin\Debug\net6.0\Task005_IsPowerofTwo.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task005_IsPowerofTwo\bin\Debug\net6.0\Task005_IsPowerofTwo.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task005_IsPowerofTwo\obj\Debug\net6.0\Task005_IsPowerofTwo.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task005_IsPowerofTwo\obj\Debug\net6.0\Task005_IsPowerofTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task005_IsPowerofTwo\obj\Debug\net6.0\Task005_IsPowerofTwo.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task005_IsPowerofTwo\obj\Debug\net6.0\Task005_IsPowerofTwo.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task005_IsPowerofTwo\obj\Debug\net6.0\Task005_IsPowerofTwo.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task005_IsPowerofTwo\obj\Debug\net6.0\Task005_IsPowerofTwo.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task005_IsPowerofTwo\obj\Debug\net6.0\refint\Task005_IsPowerofTwo.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task005_IsPowerofTwo\obj\Debug\net6.0\Task005_IsPowerofTwo.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task005_IsPowerofTwo\obj\Debug\net6.0\Task005_IsPowerofTwo.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task005_IsPowerofTwo\obj\Debug\net6.0\ref\Task005_IsPowerofTwo.dll

@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task004_PowerRecurr\obj\Debug\net6.0\Task004_PowerRecurr.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task004_PowerRecurr\obj\Debug\net6.0\Task004_PowerRecurr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task004_PowerRecurr\obj\Debug\net6.0\Task004_PowerRecurr.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task004_PowerRecurr\obj\Debug\net6.0\Task004_PowerRecurr.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task004_PowerRecurr\obj\Debug\net6.0\Task004_PowerRecurr.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task004_PowerRecurr\bin\Debug\net6.0\Task004_PowerRecurr.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task004_PowerRecurr\bin\Debug\net6.0\Task004_PowerRecurr.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task004_PowerRecurr\bin\Debug\net6.0\Task004_PowerRecurr.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task004_PowerRecurr\bin\Debug\net6.0\Task004_PowerRecurr.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task004_PowerRecurr\bin\Debug\net6.0\Task004_PowerRecurr.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task004_PowerRecurr\obj\Debug\net6.0\Task004_PowerRecurr.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task004_PowerRecurr\obj\Debug\net6.0\refint\Task004_PowerRecurr.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task004_PowerRecurr\obj\Debug\net6.0\Task004_PowerRecurr.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task004_PowerRecurr\obj\Debug\net6.0\Task004_PowerRecurr.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task004_PowerRecurr\obj\Debug\net6.0\ref\Task004_PowerRecurr.dll

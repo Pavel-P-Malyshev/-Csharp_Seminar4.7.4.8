@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task003_DigitsSumRecurr\obj\Debug\net6.0\Task003_DigitsSumRecurr.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task003_DigitsSumRecurr\obj\Debug\net6.0\Task003_DigitsSumRecurr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task003_DigitsSumRecurr\obj\Debug\net6.0\Task003_DigitsSumRecurr.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task003_DigitsSumRecurr\obj\Debug\net6.0\Task003_DigitsSumRecurr.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task003_DigitsSumRecurr\obj\Debug\net6.0\Task003_DigitsSumRecurr.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task003_DigitsSumRecurr\bin\Debug\net6.0\Task003_DigitsSumRecurr.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task003_DigitsSumRecurr\bin\Debug\net6.0\Task003_DigitsSumRecurr.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task003_DigitsSumRecurr\bin\Debug\net6.0\Task003_DigitsSumRecurr.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task003_DigitsSumRecurr\bin\Debug\net6.0\Task003_DigitsSumRecurr.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task003_DigitsSumRecurr\bin\Debug\net6.0\Task003_DigitsSumRecurr.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task003_DigitsSumRecurr\obj\Debug\net6.0\Task003_DigitsSumRecurr.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task003_DigitsSumRecurr\obj\Debug\net6.0\refint\Task003_DigitsSumRecurr.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task003_DigitsSumRecurr\obj\Debug\net6.0\Task003_DigitsSumRecurr.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task003_DigitsSumRecurr\obj\Debug\net6.0\Task003_DigitsSumRecurr.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task003_DigitsSumRecurr\obj\Debug\net6.0\ref\Task003_DigitsSumRecurr.dll

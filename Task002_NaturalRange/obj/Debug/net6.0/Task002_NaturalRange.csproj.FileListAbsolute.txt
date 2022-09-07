@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task002_NaturalRange\obj\Debug\net6.0\Task002_NaturalRange.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task002_NaturalRange\obj\Debug\net6.0\Task002_NaturalRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task002_NaturalRange\obj\Debug\net6.0\Task002_NaturalRange.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task002_NaturalRange\obj\Debug\net6.0\Task002_NaturalRange.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task002_NaturalRange\obj\Debug\net6.0\Task002_NaturalRange.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task002_NaturalRange\bin\Debug\net6.0\Task002_NaturalRange.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task002_NaturalRange\bin\Debug\net6.0\Task002_NaturalRange.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task002_NaturalRange\bin\Debug\net6.0\Task002_NaturalRange.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task002_NaturalRange\bin\Debug\net6.0\Task002_NaturalRange.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task002_NaturalRange\bin\Debug\net6.0\Task002_NaturalRange.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task002_NaturalRange\obj\Debug\net6.0\Task002_NaturalRange.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task002_NaturalRange\obj\Debug\net6.0\refint\Task002_NaturalRange.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task002_NaturalRange\obj\Debug\net6.0\Task002_NaturalRange.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task002_NaturalRange\obj\Debug\net6.0\Task002_NaturalRange.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8\Task002_NaturalRange\obj\Debug\net6.0\ref\Task002_NaturalRange.dll
